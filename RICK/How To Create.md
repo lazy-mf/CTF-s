@@ -5,12 +5,14 @@ Select the audio file you want to use (e.g., an MP3 of _Never Gonna Give You Up_
 Use Coagula to draw your flag text.
 - In Coagula, draw the flag as an image.
 <img width="1983" height="1156" alt="Pasted image 20260219030136" src="https://github.com/user-attachments/assets/9594ecf1-8cb5-4638-8a47-085464c5e0d3" />
+
 ### 3. Stabilize the Frequencies
 This step is important:
 - Make sure the generated audio from Coagula does not overpower or distort the original song.
 - Adjust gain and frequency placement so the hidden flag appears clearly in the spectrogram.
 - Usually, placing the flag in higher frequencies (where vocals/instruments are less dominant) works best.
 -  Export it as audio.
+
 ### 4. Merge the Audio Files
 - Open both the original song and the generated spectrogram audio in Audacity.
 - Split Stereo Tracks.
