@@ -4,7 +4,7 @@ Select the audio file you want to use (e.g., an MP3 of _Never Gonna Give You Up_
 ### 2. Create the Hidden Image  
 Use Coagula to draw your flag text.
 - In Coagula, draw the flag as an image.
-![[Pasted image 20260219030136.png]]
+![description](pics/Pasted image 20260219030136.png)
 ### 3. Stabilize the Frequencies
 This step is important:
 - Make sure the generated audio from Coagula does not overpower or distort the original song.
